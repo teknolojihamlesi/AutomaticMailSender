@@ -1,0 +1,8 @@
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\bin\Debug\OtomatikMail.exe.config
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\bin\Debug\OtomatikMail.exe
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\bin\Debug\OtomatikMail.pdb
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\obj\Debug\OtomatikMail.csproj.AssemblyReference.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\obj\Debug\OtomatikMail.csproj.SuggestedBindingRedirects.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\obj\Debug\OtomatikMail.csproj.CoreCompileInputs.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\obj\Debug\OtomatikMail.exe
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\OtomatikMail\OtomatikMail\obj\Debug\OtomatikMail.pdb
